@@ -1,0 +1,9 @@
+a.logo.w-nav-brand img.logo-image
+ {
+    width: auto;
+    height: 80px;
+}
+
+.navbar-wrapper {
+    align-items: center;
+}
