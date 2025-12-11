@@ -7,3 +7,8 @@ a.logo.w-nav-brand img.logo-image
 .navbar-wrapper {
     align-items: center;
 }
+
+a.w-webflow-badge
+ {
+    display: none !important;
+}
